@@ -1,11 +1,7 @@
 # Data-Analysis-Portfolio
 
-1. (https://github.com/mujont/Munoz_Econometrics "Econometrics work using Stata14")
+1. [Econometrics work using Stata14](https://www.google.com]https://github.com/mujont/Munoz_Econometrics)
 
-2. (https://github.com/mujont/SQL_Practice "SQL Analysis Work")
-
-3. (https://github.com/mujont/KPMG-Internship "KPMG Virtual Internship")
-
-4.[Econometrics work using Stata14](https://www.google.com]https://github.com/mujont/Munoz_Econometrics)
-
-[I'm an inline-style link](https://www.google.com)
+2. [SQL Analysis Work](https://github.com/mujont/SQL_Practice)
+ 
+3. [KPMG Virtual Internship](https://github.com/mujont/KPMG-Internship)
