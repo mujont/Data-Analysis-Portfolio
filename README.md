@@ -2,8 +2,12 @@
 
 1. [Econometric Analysis and Report using Stata14](https://github.com/mujont/Munoz_Econometrics)
 
+   -Analysis of data pulled from the PSID using Regression and Sumary Statistics in Stata14
+
 2. [SQL Analysis Work](https://github.com/mujont/SQL_Practice)
- 
+
+   -Variety of projects used to practice and demonstrate SQL skills
+
 3. [KPMG Virtual Internship](https://github.com/mujont/KPMG-Internship)
 
    -Data cleaning in Excel, Power Query, Power BI Report
